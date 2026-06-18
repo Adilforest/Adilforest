@@ -79,3 +79,5 @@ project **MonServ**, a production-style receipt-analytics platform.
 </p>
 
 <p align="center"><sub>Repositories follow a consistent <code>course-assignment-n</code> / kebab-case naming scheme. Coursework is grouped by course (sdp / ads / sqat / ml / cm / nosql / oop).</sub></p>
+
+<!-- profile -->
