@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Adil</h1>
+<h1 align="center">Hi, I'm Adil Ormanov</h1>
 
 <p align="center">
   <img width="600" src="https://raw.githubusercontent.com/Adilforest/Adilforest/output/github-snake.svg" alt="snake"/>
